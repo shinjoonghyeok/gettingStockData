@@ -3,7 +3,7 @@ Getting financial data
 
 
 #financedatareader
-#1.pip install financedatareader
+#open source library possible to use ' pip install financedatareader'
 
 
 #news.py
